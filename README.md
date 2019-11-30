@@ -1,1 +1,3 @@
 # coupon-clicker
+
+Using django
